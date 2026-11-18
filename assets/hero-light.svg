@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="张宇杰 Yujie Zhang — AI Agent tooling, model gateway, agent evaluation">
+  <title>张宇杰 · Yujie Zhang</title>
+
+  <rect width="1280" height="320" fill="#FBFAF7"/>
+
+  <!-- 右侧网络图形 -->
+  <g opacity="0.7">
+    <line x1="1010" y1="158" x2="1010.0" y2="92.0" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="1094.6" y2="80.3" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="1104.2" y2="137.6" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="1147.0" y2="187.7" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="1068.2" y2="211.4" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="1010.0" y2="254.0" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="951.8" y2="211.4" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="873.0" y2="187.7" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="915.8" y2="137.6" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010" y1="158" x2="925.4" y2="80.3" stroke="#E0DBD2" stroke-width="1"/>
+    <line x1="1010.0" y1="92.0" x2="1094.6" y2="80.3" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="1094.6" y1="80.3" x2="1104.2" y2="137.6" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="1104.2" y1="137.6" x2="1147.0" y2="187.7" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="1147.0" y1="187.7" x2="1068.2" y2="211.4" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="1068.2" y1="211.4" x2="1010.0" y2="254.0" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="1010.0" y1="254.0" x2="951.8" y2="211.4" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="951.8" y1="211.4" x2="873.0" y2="187.7" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="873.0" y1="187.7" x2="915.8" y2="137.6" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="915.8" y1="137.6" x2="925.4" y2="80.3" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <line x1="925.4" y1="80.3" x2="1010.0" y2="92.0" stroke="#E0DBD2" stroke-width="0.8" opacity="0.6"/>
+    <circle cx="1010.0" cy="92.0" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1094.6" cy="80.3" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1104.2" cy="137.6" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1147.0" cy="187.7" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1068.2" cy="211.4" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1010.0" cy="254.0" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="951.8" cy="211.4" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="873.0" cy="187.7" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="915.8" cy="137.6" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="925.4" cy="80.3" r="3.4" fill="none" stroke="#6A655E" stroke-width="1.1"/>
+    <circle cx="1010" cy="158" r="8" fill="#C9501C"/>
+    <circle cx="1010" cy="158" r="17" fill="none" stroke="#C9501C" stroke-width="1" opacity="0.5"/>
+  </g>
+
+  <g font-family="'PingFang SC','Hiragino Sans GB','Noto Sans SC','Microsoft YaHei',sans-serif">
+    <!-- 顶部眉题 -->
+    <text x="76" y="70" font-size="12.5" letter-spacing="3.2" fill="#C9501C" font-weight="600">AI AGENT TOOLING · MODEL GATEWAY · EVALUATION</text>
+
+    <!-- 姓名 -->
+    <text x="76" y="152" font-size="64" font-weight="700" fill="#141414" letter-spacing="3">张宇杰</text>
+
+    <!-- 英文名，另起一行，字号小 -->
+    <text x="76" y="190" font-size="21" fill="#6A655E" letter-spacing="1.6" font-family="'SF Mono','Menlo','Consolas',monospace">YUJIE ZHANG</text>
+
+    <line x1="76" y1="216" x2="640" y2="216" stroke="#E4DFD6" stroke-width="1"/>
+
+    <!-- 定位 -->
+    <text x="76" y="252" font-size="18" fill="#141414" opacity="0.88">华中科技大学 · 计算机科学与技术 · 2023 – 2027</text>
+    <text x="76" y="282" font-size="17" fill="#6A655E">在 PPIO 派欧云做 AI Agent 工具链、模型网关与 Agent 评测</text>
+  </g>
+
+  <text x="1204" y="286" text-anchor="end" font-size="12.5"
+        font-family="'SF Mono','Menlo','Consolas',monospace" fill="#6A655E" opacity="0.6">github.com/Elysiasd</text>
+
+  <rect x="0" y="317" width="1280" height="3" fill="#C9501C" opacity="0.4"/>
+</svg>
